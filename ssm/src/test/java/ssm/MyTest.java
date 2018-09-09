@@ -8,7 +8,7 @@ public class MyTest {
 
 	@Test
 	public void test() {
-		System.out.println("111111");
+		System.out.println("111111aaa");
 	}
 
 }
